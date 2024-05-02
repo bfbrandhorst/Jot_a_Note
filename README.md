@@ -12,6 +12,9 @@ This application is used to create and save notes. Upon landing the application 
 [Note Taker Saved Entries](./Assets/Images/NoteTakerSavedNotes.png)
 
 
-GitHub Repository: 
+GitHub Repository: https://github.com/bfbrandhorst/Jot_a_Note
+
+
+URL of the functional, deployed application: https://jot-a-note-1.onrender.com
 
 
